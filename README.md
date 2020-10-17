@@ -21,7 +21,6 @@
 <br />
 
 ## Skills:
-
 ### Languages
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -45,8 +44,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<br />
 ---
 
 ## Recent GitHub Activity
@@ -55,9 +52,6 @@
 
 <!--END_SECTION:activity-->
 
-
 ## GitHub Stats [Most of My Work is Private]
-
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jacob-abe&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
 [instagram]: https://instagram.com/mr.bikelad
