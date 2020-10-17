@@ -6,7 +6,7 @@
 
 ## Cyclist, Developer, and Entrepreneur
 
-- 🔭 Co-Founder of Circle, Reveno, Mr Feely!
+- 🔭 Co-Founder of @nambadoctor, Circle, Reveno, Mr Feely!
 - 🌱 I’m currently learning to build CNNs for text analysis and REST APIs
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
