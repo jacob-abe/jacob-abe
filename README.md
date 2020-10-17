@@ -7,7 +7,7 @@
 ## Cyclist, Developer, and Entrepreneur
 
 - 🔭 Co-Founder of Circle, Reveno, Mr Feely!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning to build CNNs for text analysis and REST APIs
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play football and jam to satanic music
@@ -38,7 +38,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180524/egt/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9ad4d962.7481310415271975948718.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Platforms
