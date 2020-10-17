@@ -1,13 +1,16 @@
 ### Hi there, I'm Jacob - aka @momrider69 👋
 
+<div align="center">
+	<img src="https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif">
+</div>
 
-## I'm a Cyclist, Developer, and Entrepreneur!!
+## Cyclist, Developer, and Entrepreneur
 
 - 🔭 Co-Founder of Circle, Reveno, Mr Feely!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play football and jamming to satanic music
+- ⚡ Fun fact: I play football and jam to satanic music
 
 ### Spotify Playing 🎧
 
