@@ -1,7 +1,6 @@
 ### Hi there, I'm Jacob - aka @momrider69 👋
 
-
-## I'm a Cyclist, Developer, and Entrepreneur!!
+## I'm a Cyclist, Developer, and Entrepreneur
 
 - 🔭 Co-Founder of Circle, Reveno, Mr Feely!
 - 🌱 I’m currently learning everything 🤣
@@ -13,9 +12,9 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jacob-abe.jacob-abe)
 <br />
@@ -64,6 +63,5 @@
 ## GitHub Stats [Most of My Work is Private]
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jacob-abe&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
 
 [instagram]: https://instagram.com/mr.bikelad
