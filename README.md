@@ -35,6 +35,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
 ### Platforms
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
@@ -49,14 +50,14 @@
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
+## Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
 
-<summary>:zap: GitHub Stats[Most of My Work is Private]</summary>
+## GitHub Stats [Most of My Work is Private]
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jacob-abe&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
