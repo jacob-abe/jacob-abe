@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I plqay football and jamming to satanic music
+- ⚡ Fun fact: I play football and jamming to satanic music
 
 ### Spotify Playing 🎧
 
@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats[Most of My Work is Private]</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jacob-abe&show_icons=true&hide_border=true?count_private=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jacob-abe&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 </details>
 
