@@ -19,10 +19,10 @@
 ### Links
 
 Medical Consultation:
-https://nambadoctor.com
+<a href="https://nambadoctor.com">Namba Doctor</a>
 
-E-com store
-https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp
+Reveno store
+<a href="https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp">Reveno App</a>
 
 ### Connect with me:
 
