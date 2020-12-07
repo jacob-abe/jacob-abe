@@ -16,6 +16,14 @@
 
 [![Spotify](https://novatorem-9zqr7lvse.vercel.app/api/spotify)](https://open.spotify.com/user/dhjx4cu3ftxakmrmoea7i30hj)
 
+### Links
+
+Medical Consultation:
+https://nambadoctor.com
+
+E-com store
+https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
