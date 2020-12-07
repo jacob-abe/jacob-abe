@@ -6,7 +6,7 @@
 
 ## Cyclist, Developer, and Entrepreneur
 
-- 🔭 Co-Founder of @nambadoctor, Circle, Reveno, Mr Feely!
+- 🔭 Co-Founder of @nambadoctor, @revenostore and more
 - 🌱 I’m currently learning to build CNNs for text analysis and REST APIs
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -22,7 +22,7 @@ Medical Consultation:
 <a href="https://nambadoctor.com">Namba Doctor</a>
 
 Reveno store
-<a href="https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp">Reveno App</a>
+<a href="https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp">E-com store</a>
 
 ### Connect with me:
 
