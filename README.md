@@ -7,7 +7,7 @@
 ## Cyclist, Developer, and Entrepreneur
 
 - 🔭 Co-Founder of @nambadoctor, @revenostore and more
-- 🌱 I’m currently learning to build CNNs for text analysis and REST APIs
+- 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin Tech stack 
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play football and jam to satanic music
