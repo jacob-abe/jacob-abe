@@ -12,6 +12,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play football and jam to satanic music
 
+
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-9zqr7lvse.vercel.app/api/spotify)](https://open.spotify.com/user/dhjx4cu3ftxakmrmoea7i30hj)
