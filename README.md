@@ -12,7 +12,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play football and jam to satanic music
 
-
+<br/>
 
 ### Spotify Playing 🎧
 
