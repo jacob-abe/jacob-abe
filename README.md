@@ -1,4 +1,4 @@
-### Hi there, I'm Jacob - aka @momrider69 👋
+### Hi there, I'm Jacob
 
 <div align="center">
 	<img src="https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif">
@@ -6,7 +6,7 @@
 
 ## Cyclist, Developer, and Entrepreneur
 
-- 🔭 Co-Founder of @nambadoctor, @revenostore and more
+- 🔭 Co-Founder of @nambadoctor, @revenostore
 - 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin Tech stack 
 - 👯 I’m looking to collaborate with other devs for my personal projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
