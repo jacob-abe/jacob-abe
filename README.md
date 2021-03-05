@@ -1,7 +1,7 @@
 ### Hi there, I'm Jacob👋
 
 <div align="center">
-	<img src="https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif">
+	<img src="https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif" align="left">
 </div>
 
 ## Cyclist, Developer, and Entrepreneur
