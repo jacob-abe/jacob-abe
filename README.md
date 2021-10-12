@@ -21,8 +21,7 @@
 ### Links
 
 Namba Doctor:
-<a href="https://nambadoctor.com">Namba Doctor</a>
-<a href="https://play.google.com/store/apps/details?id=com.dsconnect.ds_connect_native">Namba Doctor: Online Doctor Consultation</a>
+<a href="https://play.google.com/store/apps/details?id=com.nambadoctor">Namba Doctor: Online Doctor Consultation</a>
 
 Reveno store
 <a href="https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp">E-com store</a>
@@ -73,12 +72,5 @@ Circle : Neighborhood, Collaboration and Opinions
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-
-<details>
-  <summary>:zap: GitHub Stats[Most of My Work is Private]</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jacob-abe&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  </details>
 
 [instagram]: https://instagram.com/jaco_babe_
