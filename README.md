@@ -4,7 +4,7 @@
 	<img src="https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif" align="left">
 </div>
 
-## Cyclist, Developer, and Entrepreneur
+## Developer and Entrepreneur
 
 - 🔭 Co-Founder of @nambadoctor, @revenostore
 - 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin Tech stack 
@@ -13,10 +13,6 @@
 - ⚡ Fun fact: I play football and jam to satanic music
 
 <br/>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-9zqr7lvse.vercel.app/api/spotify)](https://open.spotify.com/user/dhjx4cu3ftxakmrmoea7i30hj)
 
 ### Links
 
@@ -28,6 +24,9 @@ Reveno store
 
 Circle : Neighborhood, Collaboration and Opinions
 <a href="https://play.google.com/store/apps/details?id=circleapp.circleapppackage.circle">Social Media App</a>
+
+Lucky faucet on Solidity and Web3
+<a href="https://vast-thicket-83999.herokuapp.com/">Beg portal</a>
 
 ### Connect with me:
 
