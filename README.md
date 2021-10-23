@@ -8,8 +8,8 @@
 
 - 🔭 Co-Founder of @nambadoctor, @revenostore
 - 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin Tech stack 
-- 👯 I’m looking to collaborate with other devs for my personal projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 Learning Solidity and Rust at the moment
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play football and jam to satanic music
 
 <br/>
@@ -28,6 +28,9 @@ Circle : Neighborhood, Collaboration and Opinions
 Lucky faucet on Solidity and Web3
 <a href="https://vast-thicket-83999.herokuapp.com/">Beg portal</a>
 
+Basic RPG on Solidity and Web3
+<a href="https://secret-beyond-85881.herokuapp.com/">TPB: Unofficial RPG</a>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -44,7 +47,7 @@ Lucky faucet on Solidity and Web3
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png"></code>
 
 ### Frameworks
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
