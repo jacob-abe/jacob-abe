@@ -28,6 +28,9 @@ Circle : Neighborhood, Collaboration and Opinions
 Lucky faucet on Solidity and Web3
 <a href="https://vast-thicket-83999.herokuapp.com/">Beg portal</a>
 
+NFT Collection minting on Solidity and Web3
+<a href="https://nameless-bayou-74434.herokuapp.com/">Questionable quotes collection</a>
+
 Basic RPG on Solidity and Web3
 <a href="https://secret-beyond-85881.herokuapp.com/">TPB: Unofficial RPG</a>
 
