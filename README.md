@@ -25,6 +25,9 @@ Reveno store
 Circle : Neighborhood, Collaboration and Opinions
 <a href="https://play.google.com/store/apps/details?id=circleapp.circleapppackage.circle">Social Media App</a>
 
+Word cloud plugged into Solana via Web3
+<a href="https://rocky-caverns-57797.herokuapp.com/">Trending word count</a>
+
 Lucky faucet on Solidity and Web3
 <a href="https://vast-thicket-83999.herokuapp.com/">Beg portal</a>
 
