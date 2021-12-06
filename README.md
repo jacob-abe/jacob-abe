@@ -7,7 +7,7 @@
 ## Developer and Entrepreneur
 
 - 🔭 Co-Founder of @nambadoctor, @revenostore
-- 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin Tech stack 
+- 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin/JS stack
 - 👯 Learning Solidity and Rust at the moment
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play football and jam to satanic music
