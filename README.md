@@ -4,6 +4,8 @@
 	<img src="https://media.giphy.com/media/ZtcfojuInM5pINYAEh/giphy.gif" align="left">
 </div>
 
+<br/>
+
 ## Developer and Entrepreneur
 
 - 🌱 Founding engineer at <a href="https://twitter.com/NambaDoctor">@NambaDoctor</a>
