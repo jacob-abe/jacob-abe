@@ -1,5 +1,7 @@
 # Hi there, I'm Jacob Abraham👋
 
+<img height="200" src="https://avatars.githubusercontent.com/u/43879655"/>
+
 <br/>
 
 ## Developer and Entrepreneur
@@ -12,7 +14,7 @@
 
 <br/>
 
-### Links
+## Links
 
 Namba Doctor:
 <a href="https://play.google.com/store/apps/details?id=com.nambadoctor">Namba Doctor: Online Doctor Consultation</a>
@@ -46,9 +48,10 @@ NFT Collection minting on Solidity and Web3
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ### Frameworks
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></cod
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
 
 ### Platforms
 
