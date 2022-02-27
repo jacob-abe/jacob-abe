@@ -1,8 +1,4 @@
-### Hi there, I'm Jacob Abraham👋
-
-<div align="center">
-	<img src="https://media.giphy.com/media/ZtcfojuInM5pINYAEh/giphy.gif" align="left">
-</div>
+# Hi there, I'm Jacob Abraham👋
 
 <br/>
 
@@ -35,10 +31,6 @@ Lucky faucet on Solidity and Web3
 
 NFT Collection minting on Solidity and Web3
 <a href="https://nameless-bayou-74434.herokuapp.com/">Questionable quotes collection</a>
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jacob-abe.jacob-abe)
 <br />
