@@ -8,7 +8,7 @@
 
 - 🌱 Founding engineer at <a href="https://twitter.com/NambaDoctor">@NambaDoctor</a>
 - 🚀 Frontend engineer at <a href="https://twitter.com/ClayStack_HQ">@ClayStack_HQ</a>
-- 🎨 Solidity Engineer(Contractor) at <a href="https://twitter.com/MinthouseNFTs">@Minthouse NFTs</a>
+- 🎨 Solidity Engineer(Contractor) at <a href="https://twitter.com/MinthouseDev">@Minthouse NFTs</a>
 - 🥅 2022 Goals: Make a barebones OS in Rust
 - ⚡ Yes I do 3 jobs at the same time.
 
