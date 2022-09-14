@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🚀 Frontend engineer at <a href="https://twitter.com/ClayStack_HQ">@ClayStack_HQ</a>
+- 🚀 Engineer at <a href="https://twitter.com/ClayStack_HQ">@ClayStack_HQ</a>
 - 🎨 Solidity Engineer(Contractor) at <a href="https://twitter.com/MinthouseDev">@Minthouse NFTs</a>
 - 🥅 2022 Goals: Make a barebones OS in Rust
 
@@ -20,15 +20,6 @@ Reveno store
 
 Circle : Neighborhood, Collaboration and Opinions
 <a href="https://play.google.com/store/apps/details?id=circleapp.circleapppackage.circle">Circle: Social messaging</a>
-
-Word cloud plugged into Solana via Web3
-<a href="https://rocky-caverns-57797.herokuapp.com/">Trending word count</a>
-
-Lucky faucet on Solidity and Web3
-<a href="https://vast-thicket-83999.herokuapp.com/">Beg portal</a>
-
-NFT Collection minting on Solidity and Web3
-<a href="https://nameless-bayou-74434.herokuapp.com/">Questionable quotes collection</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jacob-abe.jacob-abe)
 <br />
