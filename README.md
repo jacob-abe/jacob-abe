@@ -1,4 +1,4 @@
-# Greetings!!! Name's Abraham, Jacob Abraham👋
+# Hello internet fren👋, have a look at what Jacob is upto.
 
 <img height="200" src="https://2.bp.blogspot.com/-cncdegH6HJE/UtshWPXSnRI/AAAAAAAAG-I/-qy_8CA3XdU/s1600/treatyoself_main01.jpg"/>
 
