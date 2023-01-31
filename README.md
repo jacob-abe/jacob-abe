@@ -5,7 +5,6 @@
 <br/>
 
 - 🚀 Engineer at <a href="https://twitter.com/ClayStack_HQ">@ClayStack_HQ</a>
-- 🎨 Solidity Engineer(Contractor) at <a href="https://twitter.com/MinthouseDev">@Minthouse NFTs</a>
 - 🥅 2022 Goals: Make a barebones OS in Rust
 
 <br/>
