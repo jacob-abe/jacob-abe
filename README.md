@@ -5,6 +5,7 @@
 <br/>
 - 🚀 Engineer at <a href="https://twitter.com/ClayStack_HQ">@ClayStack_HQ</a>
 - 🥅 2023 Goals: Get back into Mobile App Dev
+- 🤖 Right now I'm working on Goodnight AI. Its a cross platform app which gives you AI generated illustrated stories. Flutter App + Python (Flask) backend
 <br/>
 
 ## Links
