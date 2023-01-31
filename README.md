@@ -3,9 +3,14 @@
 <img height="200" src="https://2.bp.blogspot.com/-cncdegH6HJE/UtshWPXSnRI/AAAAAAAAG-I/-qy_8CA3XdU/s1600/treatyoself_main01.jpg"/>
 
 <br/>
+
 - 🚀 Engineer at <a href="https://twitter.com/ClayStack_HQ">@ClayStack_HQ</a>
+
+
 - 🥅 2023 Goals: Get back into Mobile App Dev
-- 🤖 Right now I'm working on Goodnight AI. Its a cross platform app which gives you AI generated illustrated stories. Flutter App + Python (Flask) backend
+
+
+- 🤖 Right now I'm working on Goodnight AI. Its a cross platform app which gives you AI generated illustrated stories. Decided on a Flutter App + Python (Flask) backend. Building it in public, repos should be public as I build it.
 <br/>
 
 ## Links
