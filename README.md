@@ -11,7 +11,6 @@
 
 
 - 🤖 Right now I'm working on Goodnight AI. Its a cross platform app which gives you AI generated illustrated stories. Decided on a Flutter App + Python (Flask) backend. Building it in public, repos should be public as I build it.
-<br/>
 
 ## Links
 
