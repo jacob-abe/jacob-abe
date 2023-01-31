@@ -10,7 +10,7 @@
 ## Links
 
 Namba Doctor:
-<a href="https://www.nambadoctor.com">Namba Doctor: Health record management</a>
+<a href="https://play.google.com/store/apps/details?id=com.nambadoctor">Namba Doctor: Health record management</a>
 
 Reveno store
 <a href="https://play.google.com/store/apps/details?id=com.cashbackapp.cashbackcustomerapp">Reveno store</a>
